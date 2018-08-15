@@ -1,6 +1,8 @@
 # New Site Template
+This is a set of static pages based on template - [bootstrap-jumbotron](http://getbootstrap.com/examples/jumbotron/).
 
-[TODO. There will be project description]
+By default, bootstap templates doesn't work without the Internet connection. Using this template, you can code HTML offline.
+All the dependencies transfered  to the code repository.
 
 # Project Goals
 
