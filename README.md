@@ -16,8 +16,8 @@ git clone https://github.com/nicko858/16_offline_site
 # How to use
 By default, the html-template uses relative paths for the dependencies: 
 ```html
-<link href="./css/bootstrap.min.css" rel="stylesheet">
-<script src="./js/jquery.min.js"></script>
+<link href="/static/css/bootstrap.min.css" rel="stylesheet">
+<script src="/static/js/jquery.min.js"></script>
 ```
 You may leave this option by default, or use absolute paths.
 
